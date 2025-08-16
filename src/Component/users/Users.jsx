@@ -8,7 +8,7 @@ const Users = () => {
 
     return (
         <div>
-            Im users
+            <h1 className="text-5xl">The User is {data.length}</h1>
 
         </div>
     );
